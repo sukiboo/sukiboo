@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey there, I'm Anton 🐣
 
-<!--
-**sukiboo/sukiboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an ML researcher with a PhD in mathematics and a drive for exploring interdisciplinary applications of AI.\
+Check out ✨[my website](https://www.dereventsov.com/)✨ for more information on my professional background!
 
-Here are some ideas to get you started:
+Things I'm doing outside of work:
+- 👾 experimenting with generative AI and LLMs
+- 🎭 establishing applications of ML in behavioral science
+- 🐍 optimizing mundane everyday tasks with the power of Python
+- 📚 writing and organizing code for my [research publications](https://scholar.google.com/citations?user=RHigEzkAAAAJ)
+- 💻 relentlessly trying to get better at [programming](https://leetcode.com/sukiboo/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm open to collaboration and have lots of potential project ideas in various topics of ML.\
+Get in touch if you're interested in some jolly cooperation!
